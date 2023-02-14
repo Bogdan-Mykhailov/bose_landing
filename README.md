@@ -1,7 +1,10 @@
 
 <h1>Bose Landing Page</h1>
 
-[BOSE LINK 🎧](https://Bogdan-Mykhailov.github.io/bose_landing/)
+<im/>
+<a href='https://Bogdan-Mykhailov.github.io/bose_landing/' rel='nofollow'>
+<img src="https://img.shields.io/badge/Bose_link_🎧-4e93e6?style=for-the-badge&logo=Portfolio&logoColor=black" alt="portfolio">
+</a>
 
 <p>This is a landing page for the Bose brand, created using the <strong>BEM methodology</strong> and styled with <strong>SCSS</strong>. The page has been designed with a modern and minimalist aesthetic, and features a responsive layout that is optimized for various screen sizes.</p>
 
